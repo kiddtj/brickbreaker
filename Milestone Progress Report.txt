@@ -1,0 +1,19 @@
+Misfit Toys Milestone 4.2
+
+Status Update
+
+Completed:
+-Fully removed unnecessary functionalities from previous assignments (e.g., scorewall, goals, etc.)
+-Semi-randomized location of bricks in 3D space that increase in difficulty as rounds increase
+-Fixed ongoing bugs with the paddle 
+-Finished implementing a brick class that changes color to reflect current health status
+-Fully integrated bricks into physics system
+
+    In progress/To do:
+-Reset round whenever all bricks are broken
+-GUI changes to add rounds and lives count
+-Implement lives system so that the game doesn't end on the first miss of a ball.
+-(maybe) add an animation for whenever a brick is destroyed  
+-More tweaking of physics and controls
+
+Given our current progress, we should be able to finish the project within the next few work sessions, well ahead of the deadline. The most time consuming task still ahead of us will be implementing a cohesive level system that adds more bricks with higher hp for each successive level. We will likely continue to meet as a team on our current schedule(-ish) to complete the rest of the required functionality.  
